@@ -25,7 +25,7 @@ def create_text_icon(text, is_arrow=False):
     
     # Use a thick, bold font. 
     # If it's an arrow, we might want it slightly larger.
-    font_size = 30 if is_arrow else 26
+    font_size = 30 if is_arrow else 24
     try:
         font = ImageFont.truetype("C:/Windows/Fonts/segoeuib.ttf", font_size)
     except:
