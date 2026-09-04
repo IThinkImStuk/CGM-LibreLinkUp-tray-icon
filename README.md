@@ -1,4 +1,4 @@
-# :drop_of_blood: CGM LibreLinkUp Tray Icon
+# 🩸 CGM LibreLinkUp Tray Icon
 
 > **Keep an eye on your glucose levels without leaving your desktop workflow.**
 
@@ -14,7 +14,7 @@ I built this tool to give myself **peace of mind at work**. By bringing my Libre
 
 ---
 
-## :sparkles: Features
+## ✨ Features
 
 - 👁️ **At-a-Glance Monitoring:** See your current blood glucose reading directly in your system tray/menu bar.
 - 📈 **Trend Arrow Indicators:** Displays whether your glucose is rising, stable, or falling.
@@ -23,10 +23,17 @@ I built this tool to give myself **peace of mind at work**. By bringing my Libre
 
 ---
 
-## :hammer_and_wrench: How It Works
+## 🛠️ How It Works
 
 1. The app authenticates securely with the **LibreLinkUp API** using your follower credentials.
 2. It fetches your latest sensor reading on a background timer.
 3. It updates the system tray icon dynamically with your latest reading and trend direction.
 
 > **Note:** You must have an active **LibreLinkUp** account set up as a follower for the target FreeStyle Libre sensor.
+
+---
+
+## ⚠️ Medical Disclaimer
+
+This project is an **unofficial** built tool and is not affiliated with or endorsed by Abbot Laboratories. It is intended strictly for informational/convenience purposes and must not be used for medical decision-making or insulin dosing. Always rely on your official CGM reader or app for medical treatment.
+
